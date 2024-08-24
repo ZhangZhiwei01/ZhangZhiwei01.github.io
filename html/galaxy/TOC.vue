@@ -85,11 +85,11 @@ export default {
       this.galaxy = this.galaxy === -1 ? 1 : -1;
     },
     getLink(item) {
-      return `https://percheung.github.io/blog/${item}`;
+      return `https://zhangzhiwei01.github.io/blog/${item}`;
     },
     async fetchTocData() {
       try {
-        const response = await fetch('https://percheung.github.io/blog/toc.json');
+        const response = await fetch('https://zhangzhiwei01.github.io/blog/toc.json');
         const jsonData = await response.json();
 
         // 对jsonData进行排序

@@ -19,7 +19,7 @@
             size="100px"
             class="custom-drawer"
             :with-header="false">
-          <el-link style="margin-top:10px; width: 100px;height: 100px" href="https://github.com/PerCheung"
+          <el-link style="margin-top:10px; width: 100px;height: 100px" href="https://github.com/ZhangZhiwei01"
                    target="_blank"
                    :underline="false">
             <img src="@/assets/github.png"
@@ -37,7 +37,7 @@
                  @mouseout="reset_toc"
                  :style="{ width: isHovered_toc ? '100px' : '70px' }"/>
           </el-link>
-          <el-link style="width: 100px;height: 100px" href="https://blog.csdn.net/weixin_43982359" target="_blank"
+          <el-link style="width: 100px;height: 100px" href="https://blog.csdn.net/FDGTNH" target="_blank"
                    :underline="false">
             <img src="@/assets/csdn.png"
                  alt="CSDN"

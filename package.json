@@ -1,0 +1,11 @@
+{
+  "name": "zhangzhiwei01.github.io",
+  "version": "1.0.0",
+  "description": "<div style=\"text-align:center;\">   <img src=\"https://percheung.github.io/blogImg/202401030036301.jpg\" width=\"30%\" alt=\"\" /> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
